@@ -20,5 +20,5 @@ Code will be released in June.
     author={Pan, Xingang and Tewari, Ayush, and Leimk{\"u}hler, Thomas and Liu, Lingjie and Meka, Abhimitra and Theobalt, Christian},
     booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
     year={2023}
-}
+}7.000 
 ```
